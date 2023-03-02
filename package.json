@@ -4,7 +4,6 @@
   "private": true,
   "description": "The perfect starter kit for building beautiful websites with Next.js and Notion.",
   "author": "next-js",
-  
   "license": "MIT",
   "engines": {
     "node": ">=16"
