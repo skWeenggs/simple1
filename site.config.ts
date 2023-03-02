@@ -10,12 +10,12 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'weenggs technology',
-  domain: 'weenggstechnology.dev',
-  author: 'Weenggs Technology',
+  name: 'Notion template',
+  domain: 'notion.com',
+  author: 'Satish kumar',
 
   // open graph metadata (optional)
-  description: 'Example of weenggs Site',
+  description: '',
 
   // social usernames (optional)
   // twitter: 'weenggs',
